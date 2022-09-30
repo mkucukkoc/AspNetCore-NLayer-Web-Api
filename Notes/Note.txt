@@ -1,0 +1,21 @@
+Task Nedir?
+Task tipi en basit anlatımla asenkron(async) operasyonu temsil eden bir tip.Bu tipi kullanarak asenkron
+operasyonla ilgili tüm detaylara erişebilmemiz mümkün.
+
+async ve await nedir?
+async; içerisinde asenkron işlem yapılacak metodu belirtir. Benzer ifadeyle, içerisinde asenkron işlem yapacağımız metodu async keywordü ile işaretlemeliyiz.
+Yukarıdaki örnekte gördüğünüz gibi olaylarda(event) dahil olmak üzere içerisinde asenkron işlem yapılacak tüm metodlar async ile işaretlenmek zorundadır.
+asnyc ile işaretlenmiş bir metodda asenkron çalışacak komutlar await ile işaretlenir.
+async ile işaretlenmiş metodun geri dönüş tipi; void, Task veyahut Task<T> geri dönüş tiplerinde olmalıdır.
+await; sadece async ile işaretlenmiş metodlarda kullanılabilir.
+async ile işaretlenmiş bir metod birden fazla await kullanabilir.
+
+IQuaryable Nedir ve IEnumareable ile farkı nedir?
+IQueryable veri tabanından verileri geniş kapsamlı sorgulamak için kullanılır.
+IQueryable arayüzü IEnumarable arayüzünü implement etmektedir. 
+Bu sayede IQuaryable IEnumarable özelliklerinin hepsini barındıracaktır.
+IQueryable kullanıldığında sorgu alınırken öncelikle filtrelendirme yapılıp sorgu gönderilir. 
+Bu konuda performans bakımından çok iyidir. Örneğin aşağıdaki koddaki gibi Ürünler tablosundaki 
+ürünlerin fiyatı 30 ‘dan büyük ve fiyatı 70’ den küçük olanlarını listeleyip gönderecektir. 
+IEnumarable kullansaydık eğer, önce listeleyip ondan sonra o liste üzerinde filtrelendirme yapıp döndürecekti
+bize bu da performans kaybı yaşatacaktır.
