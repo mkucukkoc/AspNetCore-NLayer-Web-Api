@@ -1,6 +1,6 @@
-namespace mustafakucukkoc.Restore1.NLayerCore
+namespace NLayerCore.Modelss
 {
-    public class Suppliers:BaseEntity
+    public class Supplier:BaseEntity
     {
         public string CompanyName { get; set; }
         public string Address { get; set; }

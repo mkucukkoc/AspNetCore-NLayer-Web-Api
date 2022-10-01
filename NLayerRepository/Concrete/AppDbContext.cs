@@ -1,6 +1,6 @@
 using System.Reflection;
 using Microsoft.EntityFrameworkCore;
-using NLayerCore;
+using NLayerCore.Modelss;
 namespace NLayerRepository.Context
 {
     public class AppDbContext:DbContext

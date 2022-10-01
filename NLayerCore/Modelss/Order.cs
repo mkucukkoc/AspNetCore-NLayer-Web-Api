@@ -1,6 +1,6 @@
-namespace mustafakucukkoc.Restore1.NLayerCore
+namespace NLayerCore.Modelss
 {
-    public class Orders:BaseEntity
+    public class Order:BaseEntity
     {
         public int CategoryId { get; set; }
         public int OrderNumber { get; set; }

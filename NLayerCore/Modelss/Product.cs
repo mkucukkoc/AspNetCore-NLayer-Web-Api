@@ -1,4 +1,4 @@
-namespace mustafakucukkoc.Restore1.NLayerCore
+namespace NLayerCore.Modelss
 {
     public class Product:BaseEntity
     {

@@ -3,3 +3,15 @@
 /Users/mustafakucukkoc/Restore1/NLayerRepository/obj/Debug/net6.0/NLayerRepository.AssemblyInfoInputs.cache
 /Users/mustafakucukkoc/Restore1/NLayerRepository/obj/Debug/net6.0/NLayerRepository.AssemblyInfo.cs
 /Users/mustafakucukkoc/Restore1/NLayerRepository/obj/Debug/net6.0/NLayerRepository.csproj.CoreCompileInputs.cache
+/Users/mustafakucukkoc/Restore1/NLayerRepository/bin/Debug/net6.0/NLayerRepository.deps.json
+/Users/mustafakucukkoc/Restore1/NLayerRepository/bin/Debug/net6.0/NLayerRepository.runtimeconfig.json
+/Users/mustafakucukkoc/Restore1/NLayerRepository/bin/Debug/net6.0/NLayerRepository.dll
+/Users/mustafakucukkoc/Restore1/NLayerRepository/bin/Debug/net6.0/NLayerRepository.pdb
+/Users/mustafakucukkoc/Restore1/NLayerRepository/bin/Debug/net6.0/NLayerCore.dll
+/Users/mustafakucukkoc/Restore1/NLayerRepository/bin/Debug/net6.0/NLayerCore.pdb
+/Users/mustafakucukkoc/Restore1/NLayerRepository/obj/Debug/net6.0/NLayerRepository.csproj.CopyComplete
+/Users/mustafakucukkoc/Restore1/NLayerRepository/obj/Debug/net6.0/NLayerRepository.dll
+/Users/mustafakucukkoc/Restore1/NLayerRepository/obj/Debug/net6.0/refint/NLayerRepository.dll
+/Users/mustafakucukkoc/Restore1/NLayerRepository/obj/Debug/net6.0/NLayerRepository.pdb
+/Users/mustafakucukkoc/Restore1/NLayerRepository/obj/Debug/net6.0/NLayerRepository.genruntimeconfig.cache
+/Users/mustafakucukkoc/Restore1/NLayerRepository/obj/Debug/net6.0/ref/NLayerRepository.dll
