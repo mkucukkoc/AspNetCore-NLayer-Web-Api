@@ -1,4 +1,5 @@
-﻿namespace NLayerService;
+﻿
+namespace NLayerService;
 public class Class1
 {
 

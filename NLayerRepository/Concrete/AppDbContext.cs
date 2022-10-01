@@ -1,6 +1,6 @@
+using System.Reflection;
 using Microsoft.EntityFrameworkCore;
-using NLayer.Core.Models;
-
+using NLayerCore;
 namespace NLayerRepository.Context
 {
     public class AppDbContext:DbContext
@@ -15,7 +15,7 @@ namespace NLayerRepository.Context
         // Transaction (işlem) yönetimi,Caching (Önbellek işlemleri)
         public AppDbContext(DbContextOptions<AppDbContext>options):base(options)
         {}
-        public Dbset<Product> Products { get; set; } 
+        public DbSet<Product> Products { get; set; } 
         public DbSet<Category> Categories { get; set; }      
         public DbSet<Customer> Customers { get; set; }
         public DbSet<OrderDetail> OrderDetails { get; set; }

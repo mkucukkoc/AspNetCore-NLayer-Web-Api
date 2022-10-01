@@ -1,0 +1,5 @@
+/Users/mustafakucukkoc/Restore1/NLayerRepository/obj/Debug/net6.0/NLayerRepository.csproj.AssemblyReference.cache
+/Users/mustafakucukkoc/Restore1/NLayerRepository/obj/Debug/net6.0/NLayerRepository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafakucukkoc/Restore1/NLayerRepository/obj/Debug/net6.0/NLayerRepository.AssemblyInfoInputs.cache
+/Users/mustafakucukkoc/Restore1/NLayerRepository/obj/Debug/net6.0/NLayerRepository.AssemblyInfo.cs
+/Users/mustafakucukkoc/Restore1/NLayerRepository/obj/Debug/net6.0/NLayerRepository.csproj.CoreCompileInputs.cache

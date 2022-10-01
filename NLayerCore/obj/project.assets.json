@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mustafakucukkoc/Restore1/NLayer.Core/NLayer.Core.csproj",
-      "projectName": "NLayer.Core",
-      "projectPath": "/Users/mustafakucukkoc/Restore1/NLayer.Core/NLayer.Core.csproj",
+      "projectUniqueName": "/Users/mustafakucukkoc/Restore1/NLayerCore/NLayerCore.csproj",
+      "projectName": "NLayerCore",
+      "projectPath": "/Users/mustafakucukkoc/Restore1/NLayerCore/NLayerCore.csproj",
       "packagesPath": "/Users/mustafakucukkoc/.nuget/packages/",
-      "outputPath": "/Users/mustafakucukkoc/Restore1/NLayer.Core/obj/",
+      "outputPath": "/Users/mustafakucukkoc/Restore1/NLayerCore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mustafakucukkoc/.nuget/NuGet/NuGet.Config"
