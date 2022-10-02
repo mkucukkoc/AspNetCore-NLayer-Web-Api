@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mustafakucukkoc/Restore1/NLayerRepository/NLayerRepository.csproj": {}
+    "/Users/mustafakucukkoc/Desktop/Restore1/NLayerRepository/NLayerRepository.csproj": {}
   },
   "projects": {
-    "/Users/mustafakucukkoc/Restore1/NLayerCore/NLayerCore.csproj": {
+    "/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/NLayerCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mustafakucukkoc/Restore1/NLayerCore/NLayerCore.csproj",
+        "projectUniqueName": "/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/NLayerCore.csproj",
         "projectName": "NLayerCore",
-        "projectPath": "/Users/mustafakucukkoc/Restore1/NLayerCore/NLayerCore.csproj",
+        "projectPath": "/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/NLayerCore.csproj",
         "packagesPath": "/Users/mustafakucukkoc/.nuget/packages/",
-        "outputPath": "/Users/mustafakucukkoc/Restore1/NLayerCore/obj/",
+        "outputPath": "/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mustafakucukkoc/.nuget/NuGet/NuGet.Config"
@@ -57,14 +57,14 @@
         }
       }
     },
-    "/Users/mustafakucukkoc/Restore1/NLayerRepository/NLayerRepository.csproj": {
+    "/Users/mustafakucukkoc/Desktop/Restore1/NLayerRepository/NLayerRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mustafakucukkoc/Restore1/NLayerRepository/NLayerRepository.csproj",
+        "projectUniqueName": "/Users/mustafakucukkoc/Desktop/Restore1/NLayerRepository/NLayerRepository.csproj",
         "projectName": "NLayerRepository",
-        "projectPath": "/Users/mustafakucukkoc/Restore1/NLayerRepository/NLayerRepository.csproj",
+        "projectPath": "/Users/mustafakucukkoc/Desktop/Restore1/NLayerRepository/NLayerRepository.csproj",
         "packagesPath": "/Users/mustafakucukkoc/.nuget/packages/",
-        "outputPath": "/Users/mustafakucukkoc/Restore1/NLayerRepository/obj/",
+        "outputPath": "/Users/mustafakucukkoc/Desktop/Restore1/NLayerRepository/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mustafakucukkoc/.nuget/NuGet/NuGet.Config"
@@ -79,8 +79,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/mustafakucukkoc/Restore1/NLayerCore/NLayerCore.csproj": {
-                "projectPath": "/Users/mustafakucukkoc/Restore1/NLayerCore/NLayerCore.csproj"
+              "/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/NLayerCore.csproj": {
+                "projectPath": "/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/NLayerCore.csproj"
               }
             }
           }

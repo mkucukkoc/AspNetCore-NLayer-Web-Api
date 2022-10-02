@@ -10016,11 +10016,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mustafakucukkoc/Restore1/NLayerWeb/Restore1.csproj",
+      "projectUniqueName": "/Users/mustafakucukkoc/Desktop/Restore1/NLayerWeb/Restore1.csproj",
       "projectName": "Restore1",
-      "projectPath": "/Users/mustafakucukkoc/Restore1/NLayerWeb/Restore1.csproj",
+      "projectPath": "/Users/mustafakucukkoc/Desktop/Restore1/NLayerWeb/Restore1.csproj",
       "packagesPath": "/Users/mustafakucukkoc/.nuget/packages/",
-      "outputPath": "/Users/mustafakucukkoc/Restore1/NLayerWeb/obj/",
+      "outputPath": "/Users/mustafakucukkoc/Desktop/Restore1/NLayerWeb/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mustafakucukkoc/.nuget/NuGet/NuGet.Config"
@@ -10035,8 +10035,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/mustafakucukkoc/Restore1/NLayerService/NLayerService.csproj": {
-              "projectPath": "/Users/mustafakucukkoc/Restore1/NLayerService/NLayerService.csproj"
+            "/Users/mustafakucukkoc/Desktop/Restore1/NLayerService/NLayerService.csproj": {
+              "projectPath": "/Users/mustafakucukkoc/Desktop/Restore1/NLayerService/NLayerService.csproj"
             }
           }
         }

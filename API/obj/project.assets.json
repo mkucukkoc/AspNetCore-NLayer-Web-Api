@@ -224,24 +224,26 @@
     ]
   },
   "packageFolders": {
-    "/Users/mustafakucukkoc/.nuget/packages/": {}
+    "C:\\Users\\mustafakucukkoc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mustafakucukkoc/Restore1/API/API.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\Restore1\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/mustafakucukkoc/Restore1/API/API.csproj",
-      "packagesPath": "/Users/mustafakucukkoc/.nuget/packages/",
-      "outputPath": "/Users/mustafakucukkoc/Restore1/API/obj/",
+      "projectPath": "\\\\Mac\\Home\\Desktop\\Restore1\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\mustafakucukkoc\\.nuget\\packages\\",
+      "outputPath": "\\\\Mac\\Home\\Desktop\\Restore1\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/mustafakucukkoc/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mustafakucukkoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -284,7 +286,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -10,3 +10,15 @@
 /Users/mustafakucukkoc/Restore1/NLayerCore/obj/Debug/net6.0/refint/NLayerCore.dll
 /Users/mustafakucukkoc/Restore1/NLayerCore/obj/Debug/net6.0/NLayerCore.pdb
 /Users/mustafakucukkoc/Restore1/NLayerCore/obj/Debug/net6.0/ref/NLayerCore.dll
+/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/obj/Debug/net6.0/NLayerCore.csproj.AssemblyReference.cache
+/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/obj/Debug/net6.0/NLayerCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/obj/Debug/net6.0/NLayerCore.AssemblyInfoInputs.cache
+/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/obj/Debug/net6.0/NLayerCore.AssemblyInfo.cs
+/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/obj/Debug/net6.0/NLayerCore.csproj.CoreCompileInputs.cache
+/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/obj/Debug/net6.0/NLayerCore.dll
+/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/obj/Debug/net6.0/refint/NLayerCore.dll
+/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/obj/Debug/net6.0/NLayerCore.pdb
+/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/bin/Debug/net6.0/NLayerCore.deps.json
+/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/bin/Debug/net6.0/NLayerCore.dll
+/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/bin/Debug/net6.0/NLayerCore.pdb
+/Users/mustafakucukkoc/Desktop/Restore1/NLayerCore/obj/Debug/net6.0/ref/NLayerCore.dll

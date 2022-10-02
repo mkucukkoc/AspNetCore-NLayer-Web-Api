@@ -2,13 +2,14 @@ namespace NLayerCore.Modelss
 {
     public class Product:BaseEntity
     {
-        public string productName { get; set; } 
+        public string Name { get; set; }
         public int Stock { get; set; }
-        public int Price { get; set; }  
-        public string Description { get; set; }
-        public int UnitPrice { get; set; }   
+        public decimal Price { get; set; }
         public int CategoryId { get; set; }
-        public Category category{ get; set; }
-        
+        public Category Category { get; set; }
+        public ProductFeature ProductFeature { get; set; }
+        public ICollection<OrderDetail> OrderDetails { get; set; }
+        public int SupplierId { get; set; }
+        public Supplier Supplier { get; set; }
     }
 }
